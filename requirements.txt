@@ -1,0 +1,7 @@
+streamlit
+rasterio
+geopandas
+richdem
+matplotlib
+plotly
+scipy
