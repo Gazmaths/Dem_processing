@@ -1,3 +1,4 @@
+pip --upgrade
 import streamlit as st
 import rasterio
 import numpy as np
