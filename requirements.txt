@@ -5,3 +5,4 @@ richdem
 matplotlib
 plotly
 scipy
+gdal>=3.0
