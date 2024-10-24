@@ -1,8 +1,6 @@
 streamlit
 rasterio
 geopandas
-richdem
+fiona
+numpy
 matplotlib
-plotly
-scipy
-gdal
